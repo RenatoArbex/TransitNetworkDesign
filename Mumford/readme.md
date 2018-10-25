@@ -9,6 +9,10 @@
 
 Instances general comments:
 
+Mumford suggests a fixed number of routes per instance and a range of number of routes per route.
+
+![](Suggestion.png)
+
 TODO
   - Include proposed route sets for all instances (best and Pareto frontier)
   - Adapt Mumford2 and 3 to the proposed file format and insert here
