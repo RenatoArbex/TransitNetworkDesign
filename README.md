@@ -136,7 +136,7 @@ Arbex (2015) Best Compromising 10 routes
 9-15-8-6-3-2-4-12
 ```
 
-Example (Mandl solution, with headways in minutes for each line):
+Example (Mandl solution, with frequencies in minutes for each line):
 ```
 Arbex (2015) Best Compromising 10 routes
 10
@@ -150,25 +150,25 @@ Arbex (2015) Best Compromising 10 routes
 5-4-6-8-10-11
 13-11-12-4-5-2-1
 9-15-8-6-3-2-4-12
-5.5
-7.11
-9.00
-6.44
-7.00
-18.67
-4.62
-5.11
-17.20
-15.00
+10.91
+8.44
+6.67
+9.31
+8.57
+3.21
+13.00
+11.74
+3.49
+4.00
 ```
 
 File names:
-Files should be named as to include Instance Name, Number of Solutions and/or if it comprises multiple Pareto Solutions. It is encouraged to include multiple solutions in a single file if this represents a Pareto solution set and/or the same methodology/algorithm route sets. Different methodologies applied to the same instance from the same paper/author can be presented in two different files. If headways are available, it should be clear in file name txt for automation purposes.
+Files should be named as to include Instance Name, Number of Solutions and/or if it comprises multiple Pareto Solutions. It is encouraged to include multiple solutions in a single file if this represents a Pareto solution set and/or the same methodology/algorithm route sets. Different methodologies applied to the same instance from the same paper/author can be presented in two different files. If frequencies are available, it should be clear in file name txt for automation purposes.
 
 Examples:
 ```
 instance_author_4to8_routes_solutions_route_sets.txt
-Mandl_Arbex(2015)_compromising_route_sets_headways.txt
+Mandl_Arbex(2015)_compromising_route_sets_frequencies.txt
 Mandl_Arbex(2014)_67_pareto_solutions_route_sets.txt
 Mumford0_Mumford(2013)_4to8_best_passenger_route_sets.txt
 Mumford1_Mumford(2013)_55_pareto_solutions_route_sets.txt
