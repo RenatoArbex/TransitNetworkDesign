@@ -17,8 +17,8 @@ Instance images:
 
 ![](Mandl.png)
 
-![](Mandl_demand_matrix.png)
+![](Mandl_demand_matrix.PNG)
 
-![](Mandl_desire_lines.png)
+![](Mandl_desire_lines.PNG)
 
 The above mentioned visualizations were donated by Renato Arbex, as presented in Arbex and Cunha [(2015)](https://www.sciencedirect.com/science/article/pii/S0191261515001435)
