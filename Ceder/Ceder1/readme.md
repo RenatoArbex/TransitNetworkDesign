@@ -1,3 +1,3 @@
 # Ceder1 Instance
 
-![](/ceder1.png)
+![](ceder1.png)
