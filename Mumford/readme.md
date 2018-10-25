@@ -13,6 +13,8 @@ Mumford suggests a fixed number of routes per instance and a range of number of 
 
 ![](Suggestion.png)
 
+As Mumford instances node location don't represent a real world exact location (as Mandl), node coordinates are used in place of latitudes and longitudes.
+
 TODO
-  - Include proposed route sets for all instances (best and Pareto frontier)
-  - Adapt Mumford2 and 3 to the proposed file format and insert here
+  - Gather and Include proposed route sets for all instances (best and Pareto frontier)
+  
