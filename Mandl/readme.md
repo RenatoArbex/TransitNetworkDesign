@@ -15,6 +15,7 @@ Solutions are presented inside each instance folder.
 
 Instance images:
 
+Values along links are travel times in minutes.
 ![](Mandl.png)
 
 ![](Mandl_demand_matrix.PNG)
