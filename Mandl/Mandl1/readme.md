@@ -76,3 +76,4 @@ If I forgot to include yours please contact me.
 TODO:
 - Add references
 - Represent papers with 1 line per paper with descriptions
+- Organize objective functions and additional data (using EMME assignment/other)
