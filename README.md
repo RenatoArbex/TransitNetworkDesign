@@ -136,7 +136,7 @@ Arbex (2015) Best Compromising 10 routes
 9-15-8-6-3-2-4-12
 ```
 
-Example (Mandl solution, with frequencies in minutes for each line):
+Example (Mandl solution, with frequencies (trips per hour) for each line):
 ```
 Arbex (2015) Best Compromising 10 routes
 10
