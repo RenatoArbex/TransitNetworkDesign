@@ -232,7 +232,8 @@ Ideally, a complex assignment procedure should be used; however, simplifications
 
 ## How to Cite
 
-A DOI will be organized soon. For now, please use:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1473545.svg)](https://doi.org/10.5281/zenodo.1473545)
+
 Public Transit Networks for Research. *Transit Network Design Instances for Research*. https://github.com/RenatoArbex/TransitNetworkDesign.  Accessed Month, Day, Year.
 
 ## Team
