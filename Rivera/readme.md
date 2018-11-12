@@ -1,8 +1,8 @@
 # Rivera Instances
 | ﻿Network  	| Source                  	| Nodes 	| Links 	| Terminal Nodes 	|
 |----------	|-------------------------	|-------	|-------	|----------------	|
-| Rivera1  	| Mautonne (2005)         	| 84    	| 143   	| All            	|
-| Rivera2  	| Mautonne (2005) adapted 	| 84    	| 143   	| 12             	|
+| Rivera1  	| Mauttone (2005)         	| 84    	| 143   	| All            	|
+| Rivera2  	| Mauttone (2005) adapted 	| 84    	| 143   	| 12             	|
 
 Instances general comments:
 
