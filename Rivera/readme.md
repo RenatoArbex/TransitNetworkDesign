@@ -19,4 +19,3 @@ Instance image:
 
 TODO
   - Gather solutions route sets and objective functions
-  - Suggest relocating nodes based on better local knowledge
